@@ -1,18 +1,19 @@
 
 <div align="center">
-  <h1><strong>Andrea Martínez Sánchez</strong></h1>
+  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
+  <h1><strong> Andrea Martínez Sánchez </strong></h1>
   <p style="font-size: 18px; padding:10px; text-align:center;">
-    Actualmente en proceso de aprendizaje y crecimiento en el campo de la programación
+    Actualmente en proceso de aprendizaje y crecimiento en el campo de la programación <br>
   </p>
 </div>
 <div align="center">
-  <img src="https://www.serrasoluciones.com/wp-content/uploads/2014/05/3711_computerscience-banner-final.jpg" alt="Banner" width="100%" height="100px" />
+  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
 </div>
 
 ## ✏️ Formación
 - 📖 Estudiando el Grado Superior de Desarrollo de Aplicaciones Web
 - 🔭 Actualmente en el Bootcamp de Backend de Factoría F5
-
+<br><br>
 
 ## 🛠️ Stack Actual
 - **Lenguajes:** JavaScript, Java
@@ -28,10 +29,10 @@
 - **Herramientas:** Git
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br><br>
 
 ## 👤 Soft Skills
-
-
+ <img src="soft skills.jpg" />
 
 
 ## 📫 Contacto
