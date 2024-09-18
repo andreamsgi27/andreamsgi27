@@ -13,13 +13,22 @@
 ## ✏️ Formación
 - 📖 Estudiando el Grado Superior de Desarrollo de Aplicaciones Web
 - 🔭 Actualmente en el Bootcamp de Backend de Factoría F5
+- 🌐 Inglés C1 🎧📚 y B2 🖋️💬 de Oxford ToE
 <br><br>
 
 ## 🛠️ Stack Actual
-- **Lenguajes:** JavaScript, Java
-  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Lenguajes:** C#, Java
+
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+ 
+
+- **Frontend:** HTML, CSS, Javascript
+
+  
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 - **Bases de Datos:** SQL, MySQL
   
