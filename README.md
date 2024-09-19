@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
   <h1><strong> Andrea Martínez Sánchez </strong></h1>
   <p style="font-size: 18px; padding:10px; text-align:center;">
-    Actualmente en proceso de aprendizaje y crecimiento en el campo de la programación <br>
+    En proceso de aprendizaje y crecimiento en el campo de la programación <br>
   </p>
 </div>
 <div align="center">
