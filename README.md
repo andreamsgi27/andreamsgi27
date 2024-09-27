@@ -3,12 +3,18 @@
   <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
   <h1><strong> Andrea Martínez Sánchez </strong></h1>
   <p style="font-size: 18px; padding:10px; text-align:center;">
-    En proceso de aprendizaje y crecimiento en el campo de la programación <br>
+    Junior Software Developer <br>
   </p>
 </div>
 <div align="center">
   <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
 </div>
+<br>
+
+## 👩🏻‍💻 About Me  
+
+
+  ¡Hola! 👋🏻 Soy **Andrea**, una desarrolladora de software en constante aprendizaje y evolución. Siempre estoy abierta a aprender nuevas herramientas y lenguajes, y valoro el proceso de construir proyectos que realmente marquen una diferencia 🌟.
 
 ## ✏️ Formación
 - 📖 Estudiando el Grado Superior de Desarrollo de Aplicaciones Web
