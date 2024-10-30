@@ -47,7 +47,7 @@
 <br><br>
 
 ## 👤 Soft Skills
- <img src="soft skills.jpg" />
+ <img src="SoftSkills.png" />
 
 
 ## 📫 Contacto
