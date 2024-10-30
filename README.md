@@ -1,13 +1,13 @@
 
 <div align="center">
-  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
+  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="15px" />
   <h1><strong> Andrea Martínez Sánchez </strong></h1>
   <p style="font-size: 18px; padding:10px; text-align:center;">
     Junior Software Developer <br>
   </p>
 </div>
 <div align="center">
-  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="50px" />
+  <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="15px" />
 </div>
 <br>
 
