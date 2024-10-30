@@ -3,7 +3,7 @@
   <img src="https://media.tenor.com/yzNFALESODQAAAAM/coding-hack.gif" width="100%" height="15px" />
   <h1><strong> Andrea Martínez Sánchez </strong></h1>
   <p style="font-size: 18px; padding:10px; text-align:center;">
-    Junior Software Developer <br>
+    <strong>Software Developer</strong><br>
   </p>
 </div>
 <div align="center">
@@ -14,7 +14,7 @@
 ## 👩🏻‍💻 About Me  
 
 
-  ¡Hola! 👋🏻 Soy **Andrea**, una desarrolladora de software en constante aprendizaje y evolución. Siempre estoy abierta a aprender nuevas herramientas y lenguajes, y valoro el proceso de construir proyectos que realmente marquen una diferencia 🌟.
+  ¡Hola! 👋🏻 Soy **Andrea**, una desarrolladora de software en constante aprendizaje y evolución. Siempre estoy abierta a aprender nuevas herramientas y lenguajes, valoro el proceso de construir proyectos que realmente marquen la diferencia 🌟.
 
 ## ✏️ Formación
 - 📖 Estudiando el Grado Superior de Desarrollo de Aplicaciones Web
@@ -23,10 +23,10 @@
 <br><br>
 
 ## 🛠️ Stack Actual
-- **Lenguajes:** C#, Java
+- **Lenguajes:** Java, C#
 
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
  
 
 - **Frontend:** HTML, CSS, Javascript
@@ -41,11 +41,19 @@
   ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- **Herramientas:** Git
+- **Herramientas:** Spring Boot, Maven, Git, GitHub
   
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<br><br>
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+- **Gestión y Productividad:**
+
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+  ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+<br><br>
 ## 👤 Soft Skills
  <img src="SoftSkills.png" />
 
