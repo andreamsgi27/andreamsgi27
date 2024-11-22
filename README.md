@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Andrea&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62&font=Poppins)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D9F5D9&height=220&section=header&text=Andrea&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=51&descAlign=62&font=Poppins&fontColor=144038)
 
 <!--
 <div align="center">
