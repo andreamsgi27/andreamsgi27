@@ -13,7 +13,6 @@
 
 ## 👩🏻‍💻 About Me  
 
-
   ¡Hola! 👋🏻 Soy **Andrea**, una desarrolladora de software en constante evolución. Siempre estoy abierta a nuevos retos y valoro mucho el proceso de construir proyectos que realmente marquen la diferencia 🌟
 
 ## ✏️ Formación
@@ -74,7 +73,8 @@
     Visita mi LinkedIn
   </button>
 </a>
-<br><br><br>
-<!--![andreamsgi27's Stats](https://github-readme-stats.vercel.app/api?username=andreamsgi27&theme=default&show_icons=true&hide_border=false&count_private=true)
--->
+<br>
+🔹<small><i>21 Nov - Present</i></small>🔹
+
+[![andremasgi27's Work Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreamsgi27&layout=compact)](https://wakatime.com/@andreamsgi27)
 
