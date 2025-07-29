@@ -13,7 +13,7 @@
 </div>
 <br>
 -->
-  Hi! 👋🏻 I'm **Andrea**, a developer who loves learning and improving every day <br>I enjoy collaborating in team environments, where I can take on new challenges and contribute to making something great <br>I truly value the process of building projects that make a real difference, paying attention to the smallest details 🌟
+  Hi! 👋🏻 I'm **Andrea**. I enjoy collaborating in team environments, where I can take on new challenges and contribute to making something great <br>I truly value the process of building projects that make a real difference, paying attention to the smallest details 🌟
 
 <br>
 
