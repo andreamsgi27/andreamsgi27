@@ -17,8 +17,12 @@
 
 <br>
 
+## 💻 Work
+- ♠️ Java Backend Developer at Capgemini 
+<br><br>
+
 ## ✏️ Education
-- 💻 Currently studying official vocational training in Web Application Development
+- 💻 Vocational training in Web Application Development
 - 🔭 Backend Bootcamp at Factoría F5
 - 🌐 English C1 🎧📚 and B2 🖋️💬 from Oxford ToE and English Studies Degree
 <br><br>
@@ -27,6 +31,8 @@
 - **Backend:**
 
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Batch](https://img.shields.io/badge/Batch-F58025?style=for-the-badge&logoColor=white)
  
 
 - **Frontend:**
@@ -43,12 +49,14 @@
 
 - **Tools:**
   
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
   ![Unit Testing](https://img.shields.io/badge/Unit_Testing-007ACC?style=for-the-badge&logo=testing-library&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![DBeaver](https://img.shields.io/badge/DBeaver-3776AB?style=for-the-badge&logoColor=white)
 
 
 - **Project Management and Productivity:**
@@ -56,6 +64,7 @@
   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+  ![Teams](https://img.shields.io/badge/Teams-6264A7?style=for-the-badge&logoColor=white)
 <br><br>
 ## 👤 Soft Skills
  <img src="SoftSkills.png" />
@@ -65,8 +74,8 @@
   [![Email](https://img.shields.io/badge/Email-andreamsgi27%40hotmail.com-blue?logo=gmail&logoColor=white)](mailto:andreamsgi27@hotmail.com)  
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrea-martinez-sanchez)
-<br><br><br><br>
-🔹<small><i>21 Nov - Present</i></small>🔹
+<br><br><br>
+🔹<small><i>Practice Hours by Technology</i></small>🔹
 
 [![andremasgi27's Work Stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreamsgi27&layout=compact)](https://wakatime.com/@andreamsgi27)
 
